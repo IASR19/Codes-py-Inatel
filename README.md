@@ -1,4 +1,3 @@
-# Codes-py-Inatel
-Códigos de aulas / trabalhos Inatel
+# Explicação:
 
 https://1drv.ms/v/s!AjjVIAVv01kakn1ElJxbwjjxIFMh
